@@ -1,3 +1,3 @@
-# contaduria
+# Proyecto final tecmilenio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-pamtpp)
+Sitio web para empresa de contabilidad
